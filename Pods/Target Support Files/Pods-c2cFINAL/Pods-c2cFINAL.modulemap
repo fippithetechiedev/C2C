@@ -1,0 +1,6 @@
+framework module Pods_c2cFINAL {
+  umbrella header "Pods-c2cFINAL-umbrella.h"
+
+  export *
+  module * { export * }
+}
